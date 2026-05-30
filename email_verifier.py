@@ -1,4 +1,4 @@
-k,j,d= 0,0,0
+k,j,d= 0,0,0     #using string
 email = input("Enter your email")
 if len(email) >= 6 :
     if email[0].isalpha():
